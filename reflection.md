@@ -5,8 +5,15 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 1. What was broken when you started?
 
 - What did the game look like the first time you ran it?
+  - it was an interface that asked you to guess a number between 0 and 100
+  - you keep putting in number and clicking guess to submit the guess
+  - press new game to start a new game and hint checkbox to toggle hints 
+
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
+  - the new game button didnt work and a new game didnt start
+  - it didnt give me all the attempts i had left (wasted an attempt without giving a hint when i used enter insted of submit)
+  - hints are backwards
 
 ---
 
