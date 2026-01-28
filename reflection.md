@@ -12,7 +12,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
   - the new game button didnt work and a new game didnt start
-  - it didnt give me all the attempts i had left (wasted an attempt without giving a hint when i used enter insted of submit)
+  - it didnt give me all the attempts i had left (says ive used 8 attempt when i only used 7) or tells me the wrong number of attempts i have when i start a new game
   - hints are backwards
 
 ---
