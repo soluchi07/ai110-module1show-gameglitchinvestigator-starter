@@ -69,4 +69,4 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
   -I will also try to practice using a new chat for each new task so the AI doesn't lose context
 
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
-  - AI suggestions are starting points, not gospel. The best approach was combining AI's domain knowledge with my own testing and judgment to find minimal, safe fixes.
+  - AI suggestions are starting points, not gospel. The best approach was combining AI's domain knowledge with my own testing and judgment to find minimal, safe fixes. 
